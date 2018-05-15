@@ -5,3 +5,5 @@ A compatibility-based "FriendFinder" application -- basically a dating app. This
 Express is used to handle routing. 
 
 https://lhuynh1.github.io/friend-finder/
+
+https://friendfinder-lhuynh.herokuapp.com/ 
